@@ -4,6 +4,6 @@
   "main": "app.js",
   "description": "Insert description here",
   "scripts": {
-	"start": "node app.js"
+	"start": "node app.js" 
   }
 }

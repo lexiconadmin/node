@@ -1,6 +1,6 @@
 var http = require('http');
 var io = require('socket.io')(http);
-// Comment section
+// Comment sections
 var port = (process.env.PORT || process.env.VCAP_APP_PORT || 8888);
 
 http.createServer(function (req, res) {
